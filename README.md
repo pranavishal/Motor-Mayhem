@@ -6,3 +6,10 @@ Traverse the arena as a car, while trying to avoid colliding with the arena bord
 
 Privacy Policy:
 https://docs.unity.com/ads/GoogleDataSafety.html
+
+To contact us:
+Pranav Vishal: 
+(519) 807-9596
+
+Email:
+support@panamaink.ca
