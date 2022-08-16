@@ -1,4 +1,4 @@
-# Clash-of-Cars
+# Motor-Mayhem
 Clash of Cars is a mobile game developed with Unity and C#
 
 
